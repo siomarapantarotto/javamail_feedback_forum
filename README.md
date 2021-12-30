@@ -21,14 +21,15 @@ The XYZ.com company decides to create a feedback forum so employess can send sug
 
 ## Steps:
 
-- Employees go to a main page.
+- Employees access the main page.
 - Select to send a new feedback.
-- Provide the information they want and click in a button to submit it to the company.
+- Provide feedback information.
+- Click a button to submit the feedback to the company.
 
 
 ## Files:
 
-The following 7 files compose the Java Sax Parser example:
+The following files compose the Java Sax Parser example:
 
 1) index.html	Main page of feedback forum
 2) FeedbackForm.jsp	Page to enter a new feedback information
