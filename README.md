@@ -1,6 +1,6 @@
 # A JavaMail Feedback Forum
 
-This javaMail demo was created in 2001 for learning/tutorial purposes and has served as the basis for many projects in my career.
+This javaMail Feedback Forum was created for learning/tutorial purposes and has served as the basis for many projects in my career in a time that java programming was all from scratch.
 
 It was recently retrieved from Geocities.com, one of the most popular and successful free personal web hosting services of the 1990s, which was shut down in October 2009.
 
